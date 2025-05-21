@@ -1,13 +1,20 @@
 Hi there, 
 My names **Jake Moreland**,
 
-I am a *full stack* dev but I spend 90% of my time on the front-end, building all kinds of apps / projects for both clients and myself using the latest and greatest in whatever's the hot subject!
+I am a *full stack* dev but could say I dabble in a fair bit of design.
 
 
-Also working on some very interesting projects, which will come to light by soon enough, "SaaS / Another 2 apps and my very own showcase/studio website"
+Building, soon to be shipping.
+might retire.
 https://initialstudios.com.au keep your eyes peeled.
 
 Loving **React Router v7**/**Remix**, **React-native**, **supabase** and anything **AWS**.
 
 
                                        
+https://burgermancan.com
+this is also me.
+enjoy that one
+
+
+Cheers
