@@ -14,7 +14,7 @@
 
 GridVert turns any livestream into a grid of bookable ad zones. Streamers lay out their screen, set their own tier prices, and brands book the blocks directly. No agency, no middlemen, no work. It just earns while you stream.
 
-- ⚡ Self-serve livestream ad exchange (Twitch + Kick)
+- ⚡ Self-serve livestream ad exchange across every platform, Twitch, Kick, YouTube, Rumble, TikTok, X, Facebook and Instagram
 - 🟦🟩🟨🟥 Price your own grid, tier by tier
 - 📷 Tracked QR ads with real per-stream scan attribution
 - 💸 Hands-off payouts, cards via Stripe and crypto via custom on-chain escrow
@@ -42,4 +42,12 @@ Live at **[gridvert.com](https://gridvert.com)**, keep your eyes peeled. 👀
 
 ---
 
-<p align="center">Cheers ✌️</p>
+## 💼 If you'd like to hire me
+
+Open to select freelance and contract work through **[Initial Studios](https://initialstudios.com.au)**. Full-stack builds, slick product design, and shipping things end to end.
+
+📬 Give us a shout at **[jake@initialstudios.com.au](mailto:jake@initialstudios.com.au)** and let's build something.
+
+---
+
+<p align="center">Cheer big ears ✌️</p>
