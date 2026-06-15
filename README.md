@@ -17,7 +17,7 @@ GridVert turns any livestream into a grid of bookable ad zones. Streamers lay ou
 - ⚡ Self-serve livestream ad exchange (Twitch + Kick)
 - 🟦🟩🟨🟥 Price your own grid, tier by tier
 - 📷 Tracked QR ads with real per-stream scan attribution
-- 💸 Automatic payouts via Stripe
+- 💸 Hands-off payouts, cards via Stripe and crypto via custom on-chain escrow
 
 Live at **[gridvert.com](https://gridvert.com)**, keep your eyes peeled. 👀
 
