@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://gridvert.com">
-    <img src="assets/gridvert-og.webp" alt="GridVert: the advertising layer for creator-owned live media" width="100%">
+    <img src="assets/gridvert-og.png" alt="GridVert: the advertising layer for creator-owned live media" width="100%">
   </a>
 </p>
 
